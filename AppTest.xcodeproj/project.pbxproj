@@ -16,6 +16,7 @@
 		A7195CE72B4C33990092C733 /* AppTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7195CE62B4C33990092C733 /* AppTestTests.swift */; };
 		A7195CF12B4C33990092C733 /* AppTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7195CF02B4C33990092C733 /* AppTestUITests.swift */; };
 		A7195CF32B4C33990092C733 /* AppTestUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7195CF22B4C33990092C733 /* AppTestUITestsLaunchTests.swift */; };
+		A7195D002B4C34610092C733 /* MathFunc.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7195CFF2B4C34610092C733 /* MathFunc.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		A7195CEC2B4C33990092C733 /* AppTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AppTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A7195CF02B4C33990092C733 /* AppTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppTestUITests.swift; sourceTree = "<group>"; };
 		A7195CF22B4C33990092C733 /* AppTestUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppTestUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		A7195CFF2B4C34610092C733 /* MathFunc.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MathFunc.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				A7195CCF2B4C33980092C733 /* AppDelegate.swift */,
 				A7195CD12B4C33980092C733 /* SceneDelegate.swift */,
 				A7195CD32B4C33980092C733 /* ViewController.swift */,
+				A7195CFF2B4C34610092C733 /* MathFunc.swift */,
 				A7195CD52B4C33980092C733 /* Main.storyboard */,
 				A7195CD82B4C33980092C733 /* Assets.xcassets */,
 				A7195CDA2B4C33980092C733 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				A7195CD42B4C33980092C733 /* ViewController.swift in Sources */,
 				A7195CD02B4C33980092C733 /* AppDelegate.swift in Sources */,
 				A7195CD22B4C33980092C733 /* SceneDelegate.swift in Sources */,
+				A7195D002B4C34610092C733 /* MathFunc.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
